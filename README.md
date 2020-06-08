@@ -13,4 +13,4 @@ Link: _https://github.com/anujvyas/Natural-Language-Processing-Projects/tree/mas
 
 • Snapshot of Web App:
 
-![image](readme_resources/restaurant-review-web-app.png)
+![GIF](readme_resources/restaurant-review-web-app.gif)
